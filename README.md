@@ -4,7 +4,7 @@ Please go under edit and edit this file as needed for your project
 # Team Name - 
 # Project Group - 2023_039_team
 ### Group Leader - IT21080258 - Mr. Kasun Gamage (IT21080258)
-### Member 2 - 
+### Member 2 - IT21030208-Wijesinghe D.M(IT21030208)
 ### Member 3 - 
 ### Member 4 - 
 
