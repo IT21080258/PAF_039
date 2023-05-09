@@ -26,7 +26,7 @@ public class UserController {
 
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
-    public User creatUser(@RequestBody User user{
+    public User creatUser(@RequestBody User user){
         return serviceR.adduser(user);
     }
 

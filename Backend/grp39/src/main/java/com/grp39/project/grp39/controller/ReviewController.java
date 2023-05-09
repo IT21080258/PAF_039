@@ -18,7 +18,7 @@ import com.grp39.project.grp39.model.Review;
 import com.grp39.project.grp39.service.ReviewService;
 
 @RestController
-@RequestMapping("/review")
+@RequestMapping("/review/")
 public class ReviewController {
 
     @Autowired
