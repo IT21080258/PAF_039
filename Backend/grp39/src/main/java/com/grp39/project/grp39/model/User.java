@@ -13,11 +13,14 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 
 public class User {
+
     @Id
     private String _id;
-    private String Uname;
+    private String uname;
+    private String fullname;
+    private String mobileOREmail;
     private String password;
-    private String email;
+    
 
 
 }

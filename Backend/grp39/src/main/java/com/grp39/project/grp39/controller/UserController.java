@@ -41,7 +41,7 @@ public class UserController {
     } 
 
     @PutMapping
-    public User modifyReview(@RequestBody User user){
+    public User modifyUser(@RequestBody User user){
         
         return serviceR.updateUser(user);
     }

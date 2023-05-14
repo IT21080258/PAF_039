@@ -3,3 +3,5 @@ spring:
         mongodb:
             uri : mongodb+srv://admin:admin@paf.g8muzyy.mongodb.net/?retryWrites=true&w=majority
             database : PAF
+
+            
