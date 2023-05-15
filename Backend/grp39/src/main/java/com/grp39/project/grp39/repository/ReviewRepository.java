@@ -7,4 +7,5 @@ import com.grp39.project.grp39.model.Review;
 
 public interface ReviewRepository extends MongoRepository<Review,String> {
     List<Review> findByUser(String user);
+    List<Review> findByRName(String rName);
 }

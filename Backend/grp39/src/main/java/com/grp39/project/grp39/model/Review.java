@@ -17,6 +17,7 @@ public class Review {
     private String _id;
     private String review;
     private String user;
+    private String rName;
 
 
 }
