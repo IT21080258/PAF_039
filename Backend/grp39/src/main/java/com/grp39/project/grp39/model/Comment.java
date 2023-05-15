@@ -17,6 +17,7 @@ public class Comment{
     @Id
     private String _id;
     private String reviewID;
+    private String user;
     private String comment;
 
 
