@@ -1,0 +1,42 @@
+.Post_container{
+    width : 615px;
+    border: 1px solid #fbfbfb;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+.Post_header{
+    height: 60px;
+    border-bottom: 1px solid #fbfbfb;
+    display: flex;
+}
+.Post_profilepic{
+    min-width: 30px;
+    min-height: 30px;
+    margin: 10px;
+}
+.Post_username{
+    font-weight: bold;
+    margin-top: 20px;
+}
+.post_images{
+    width: 615px;
+}
+.Post_reactimage{
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+.Post_likes{
+    margin-left: 10 px;
+}
+.Post_comment{
+    margin: 10px;
+}
+.Post_commenttextbox{
+    height: 30px;
+    width: 615px;
+    border: 1px solid #fbfbfb;
+    font-size: 16px;
+    padding: left 10px; ;
+}

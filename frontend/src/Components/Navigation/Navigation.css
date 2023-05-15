@@ -1,0 +1,23 @@
+.Navigation_Content{
+    height: 54px;
+    background-color: white;
+    border-bottom: 1px solid #ddbbdd;
+}
+
+.Navigation_logo{
+    margin-top: 10px;
+}
+.Navigation_profilepic{
+    max-width: 25px;
+    max-height: 25px;
+    margin: 15px 10px;
+}
+.Navigation_search{
+    height: 30px;
+    width: 215px;
+    margin-top: 10px;
+    border: 1px solid #ddbbdd;
+    text-align: center;
+    background-color: #fafafa;
+    border-radius: 5px;
+}
